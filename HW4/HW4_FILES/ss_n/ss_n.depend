@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1610563955 source:c:\users\Özlem vural\desktop\ss_nazi\ss_n\flightmap.cpp
+	"FlightMap.h"
+	<fstream>
+	<sstream>
+	<string>
+	<list>
+	<cstdlib>
+	<iostream>
+
+1610532340 c:\users\Özlem vural\desktop\ss_nazi\ss_n\flightmap.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<list>
+	"SearchStack.h"
+
+1610532340 c:\users\Özlem vural\desktop\ss_nazi\ss_n\searchstack.h
+	<iostream>
+	<string>
+
+1610532340 source:c:\users\Özlem vural\desktop\ss_nazi\ss_n\searchstack.cpp
+	"SearchStack.h"
+
+1610532618 source:c:\users\Özlem vural\desktop\ss_nazi\ss_n\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"FlightMap.h"
+	<iostream>
+
