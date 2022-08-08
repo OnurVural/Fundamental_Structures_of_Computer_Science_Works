@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1607943463 source:c:\users\Özlem vural\desktop\cs201\201deneme\library\main.cpp
+	<iostream>
+	"SimpleStudent.h"
+	"SimpleLibrarySystem.h"
+
+1607943358 source:c:\users\Özlem vural\desktop\cs201\201deneme\library\simplelibrarysystem.cpp
+	"SimpleLibrarySystem.h"
+	<cstddef>
+
+1607890836 c:\users\Özlem vural\desktop\cs201\201deneme\library\simplelibrarysystem.h
+	<string>
+	<cstddef>
+	"SimpleStudent.h"
+	<iostream>
+
+1607935945 source:c:\users\Özlem vural\desktop\cs201\201deneme\library\simplestudent.cpp
+	"SimpleStudent.h"
+
+1607935945 c:\users\Özlem vural\desktop\cs201\201deneme\library\simplestudent.h
+	<string>
+	<iostream>
+
+1608115324 source:c:\users\Özlem vural\desktop\cs201\l\library\main.cpp
+	<iostream>
+	<string>
+	"SimpleStudent.h"
+	"SimpleLibrarySystem.h"
+
+1608115324 c:\users\Özlem vural\desktop\cs201\l\library\simplestudent.h
+	<string>
+	<iostream>
+
+1608115324 c:\users\Özlem vural\desktop\cs201\l\library\simplelibrarysystem.h
+	<string>
+	<cstddef>
+	"SimpleStudent.h"
+	<iostream>
+
+1608115700 source:c:\users\Özlem vural\desktop\cs201\l\library\simplelibrarysystem.cpp
+	"SimpleLibrarySystem.h"
+	<cstddef>
+
+1608115700 source:c:\users\Özlem vural\desktop\cs201\l\library\simplestudent.cpp
+	"SimpleStudent.h"
+

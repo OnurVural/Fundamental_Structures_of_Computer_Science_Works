@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1608116539 source:c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\book.cpp
+	"Book.h"
+
+1608116602 c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\book.h
+	<string>
+	<cstddef>
+	<iostream>
+
+1608116371 source:c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\librarysystem.cpp
+	"LibrarySystem.h"
+	<iostream>
+	<iomanip>
+	<cstddef>
+
+1608116497 c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\librarysystem.h
+	"Student.h"
+	"Book.h"
+	<string>
+	<cstddef>
+	<iostream>
+
+1608115097 c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\student.h
+	"Book.h"
+	<string>
+	<iostream>
+
+1608115097 source:c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\main.cpp
+	<iostream>
+	<string>
+	"LibrarySystem.h"
+	"Student.h"
+	"Book.h"
+
+1608116445 source:c:\users\Özlem vural\desktop\cs201\201deneme\librarydeveloped\student.cpp
+	"Student.h"
+
